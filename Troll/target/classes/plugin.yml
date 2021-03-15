@@ -1,0 +1,4 @@
+name: Trollplugin
+main: de.near.troll.Troll
+version: 1.0
+author: [ Near78 ]
